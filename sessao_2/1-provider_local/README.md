@@ -1,0 +1,1 @@
+# Utilização do terraform random para praticar comandos do terraform.
